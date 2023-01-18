@@ -1,0 +1,130 @@
+{
+  "icons": {
+    "IconsCircle": {
+      "jsxName": "IconsCircle",
+      "iconSize": ["16", "20", "24", "28"],
+      "iconType": ["solid", "solid", "solid", "solid"],
+      "subFolder": "icons-circle",
+      "fragment": "all-icons",
+      "id": "30:12",
+      "svgName": [
+        "16-x-16-solid",
+        "20-x-20-solid",
+        "24-x-24-solid",
+        "28-x-28-solid"
+      ]
+    },
+    "IconsRectangle": {
+      "jsxName": "IconsRectangle",
+      "iconSize": ["28", "28", "28", "16", "20", "20", "20", "20", "20", "28"],
+      "iconType": [
+        "1px",
+        "1.25px",
+        "1.5px",
+        "2px",
+        "1px",
+        "1.25px",
+        "1.5px",
+        "2px",
+        "solid",
+        "solid"
+      ],
+      "subFolder": "icons-rectangle",
+      "fragment": "all-icons",
+      "id": "42:49",
+      "svgName": [
+        "28-x-28-1-px",
+        "28-x-28-1-25-px",
+        "28-x-28-1-5-px",
+        "28-x-28-2-px",
+        "20-x-20-1-px",
+        "20-x-20-1-25-px",
+        "20-x-20-1-5-px",
+        "20-x-20-2-px",
+        "20-x-20-solid",
+        "28-x-28-solid"
+      ]
+    },
+    "IconsTriangle": {
+      "jsxName": "IconsTriangle",
+      "iconSize": ["16", "20", "24", "28"],
+      "iconType": ["solid", "solid", "solid", "solid"],
+      "subFolder": "icons-triangle",
+      "fragment": "color-icons",
+      "id": "31:5",
+      "svgName": [
+        "16-x-16-solid",
+        "20-x-20-solid",
+        "24-x-24-solid",
+        "28-x-28-solid"
+      ]
+    },
+    "IconsStar": {
+      "jsxName": "IconsStar",
+      "iconSize": ["16", "20", "24", "28"],
+      "iconType": ["solid", "solid", "solid", "solid"],
+      "subFolder": "icons-star",
+      "fragment": "color-icons",
+      "id": "32:6",
+      "svgName": [
+        "16-x-16-solid",
+        "20-x-20-solid",
+        "24-x-24-solid",
+        "28-x-28-solid"
+      ]
+    }
+  },
+  "icons_meta": {
+    "icons/all-icons/icons-circle/16-x-16-solid.svg": "e03e402446fdd671572b0076e370e5d99a9d6ebe9175c83abd099904f06b97ca",
+    "icons/all-icons/icons-circle/20-x-20-solid.svg": "32292bbb93e6cdaf5430454f5faf010d082aee7b9f77b66746860f5b44d79a43",
+    "icons/all-icons/icons-circle/24-x-24-solid.svg": "1f4f4e382024f0b5095edf50cc6f004fa934e4ec21573898ce401cf4212b77c7",
+    "icons/all-icons/icons-circle/28-x-28-solid.svg": "cf724e60be7abf637f4b7daec4fb4185f7814570d8177858d14177f7bcc91157",
+    "icons/all-icons/icons-rectangle/20-x-20-1-25-px.svg": "ec036fb0dff5e8d815877c2ae5f6649e8cbc24bf78454e6de9a4c8fa6dcc60e6",
+    "icons/all-icons/icons-rectangle/20-x-20-1-5-px.svg": "0bd6ce6b1742354463e04241bf50a53195c586d55fe2524dd7c9afe34b5105e5",
+    "icons/all-icons/icons-rectangle/20-x-20-1-px.svg": "aef3cefefb945dbf55a604c31d2b9fcc73b84b36b1e9b18dacd229f9b3aad162",
+    "icons/all-icons/icons-rectangle/20-x-20-2-px.svg": "7b63ea8982c71b73067ca7184cd8308dc1e64909fb7de6e1037b9777a7a7da0e",
+    "icons/all-icons/icons-rectangle/20-x-20-solid.svg": "16549176ef7fe436775546a349adc88a8b78446c9919892398702a3e081b23a9",
+    "icons/all-icons/icons-rectangle/28-x-28-1-25-px.svg": "43bec71a0eaf7d35fca479671381a8a902043b3d7b6e1e6d861877cbb7ee3157",
+    "icons/all-icons/icons-rectangle/28-x-28-1-5-px.svg": "d2d7cc267fefeabd2746f8eef35c387025d3771bbaa3541a7130979e512355a0",
+    "icons/all-icons/icons-rectangle/28-x-28-1-px.svg": "2509d9239bdaf4934e5127ce3fc3c01700af9037b2635991db80a4e659b312c0",
+    "icons/all-icons/icons-rectangle/28-x-28-2-px.svg": "21910e9604989e7890d0354811de5c064373ffe1899981560131957b3fc115b1",
+    "icons/all-icons/icons-rectangle/28-x-28-solid.svg": "ee71f9616b52cbea452b1bbb416424ef20f5843c206325bbef2f16ec64e4cda1",
+    "icons/color-icons/icons-star/16-x-16-solid.svg": "6c1a36bcdc828028d4f6e35145f5c9dacdaca7bd0607add0c134687b0fc39b1c",
+    "icons/color-icons/icons-star/20-x-20-solid.svg": "283a90bf4d1c963fa232bfc87a2218a8a6243d7ec51fa46ffe67353b7f948bc6",
+    "icons/color-icons/icons-star/24-x-24-solid.svg": "1b83534630df939a74eb8439669ae6b05677be8dfd7716eaffff45321ad79cb0",
+    "icons/color-icons/icons-star/28-x-28-solid.svg": "67c588cc111f7d44308fd44741a19339b68b891cc816ada5c2ff0ef2562c3cac",
+    "icons/color-icons/icons-triangle/16-x-16-solid.svg": "a3b06ecbb6d71246e47e2af17435d2fa52d584ac6501dc5531e72dab4c9b883b",
+    "icons/color-icons/icons-triangle/20-x-20-solid.svg": "d3fb977c85cbac1eb410ca85bc0e9030d477e795f6ea15af809bc776ad968d4f",
+    "icons/color-icons/icons-triangle/24-x-24-solid.svg": "9f43150ff32e0ac47011d7d4ffa9742d4b772a59dba45cf07ab07697b7d100eb",
+    "icons/color-icons/icons-triangle/28-x-28-solid.svg": "83c8fb9ee72714529e59e7e27c479b3009edf447885109808e2157eab2419543"
+  },
+  "changes": {
+    "added": [
+      "icons/all-icons/icons-circle/16-x-16-solid.svg",
+      "icons/all-icons/icons-circle/20-x-20-solid.svg",
+      "icons/all-icons/icons-circle/24-x-24-solid.svg",
+      "icons/all-icons/icons-circle/28-x-28-solid.svg",
+      "icons/all-icons/icons-rectangle/20-x-20-1-25-px.svg",
+      "icons/all-icons/icons-rectangle/20-x-20-1-5-px.svg",
+      "icons/all-icons/icons-rectangle/20-x-20-1-px.svg",
+      "icons/all-icons/icons-rectangle/20-x-20-2-px.svg",
+      "icons/all-icons/icons-rectangle/20-x-20-solid.svg",
+      "icons/all-icons/icons-rectangle/28-x-28-1-25-px.svg",
+      "icons/all-icons/icons-rectangle/28-x-28-1-5-px.svg",
+      "icons/all-icons/icons-rectangle/28-x-28-1-px.svg",
+      "icons/all-icons/icons-rectangle/28-x-28-2-px.svg",
+      "icons/all-icons/icons-rectangle/28-x-28-solid.svg",
+      "icons/color-icons/icons-star/16-x-16-solid.svg",
+      "icons/color-icons/icons-star/20-x-20-solid.svg",
+      "icons/color-icons/icons-star/24-x-24-solid.svg",
+      "icons/color-icons/icons-star/28-x-28-solid.svg",
+      "icons/color-icons/icons-triangle/16-x-16-solid.svg",
+      "icons/color-icons/icons-triangle/20-x-20-solid.svg",
+      "icons/color-icons/icons-triangle/24-x-24-solid.svg",
+      "icons/color-icons/icons-triangle/28-x-28-solid.svg"
+    ],
+    "removed": [],
+    "modified": []
+  },
+  "build_number": 1
+}
