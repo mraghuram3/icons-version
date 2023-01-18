@@ -1,0 +1,75 @@
+{
+  "IconsCircle": {
+    "jsxName": "IconsCircle",
+    "iconSize": ["16", "20", "24", "28"],
+    "iconType": ["solid", "solid", "solid", "solid"],
+    "subFolder": "icons-circle",
+    "fragment": "all-icons",
+    "id": "30:12",
+    "svgName": [
+      "16-x-16-solid",
+      "20-x-20-solid",
+      "24-x-24-solid",
+      "28-x-28-solid"
+    ]
+  },
+  "IconsRectangle": {
+    "jsxName": "IconsRectangle",
+    "iconSize": ["28", "28", "28", "16", "20", "20", "20", "20", "20", "28"],
+    "iconType": [
+      "1px",
+      "1.25px",
+      "1.5px",
+      "2px",
+      "1px",
+      "1.25px",
+      "1.5px",
+      "2px",
+      "solid",
+      "solid"
+    ],
+    "subFolder": "icons-rectangle",
+    "fragment": "all-icons",
+    "id": "42:49",
+    "svgName": [
+      "28-x-28-1-px",
+      "28-x-28-1-25-px",
+      "28-x-28-1-5-px",
+      "28-x-28-2-px",
+      "20-x-20-1-px",
+      "20-x-20-1-25-px",
+      "20-x-20-1-5-px",
+      "20-x-20-2-px",
+      "20-x-20-solid",
+      "28-x-28-solid"
+    ]
+  },
+  "IconsTriangle": {
+    "jsxName": "IconsTriangle",
+    "iconSize": ["16", "20", "24", "28"],
+    "iconType": ["solid", "solid", "solid", "solid"],
+    "subFolder": "icons-triangle",
+    "fragment": "color-icons",
+    "id": "31:5",
+    "svgName": [
+      "16-x-16-solid",
+      "20-x-20-solid",
+      "24-x-24-solid",
+      "28-x-28-solid"
+    ]
+  },
+  "IconsStar": {
+    "jsxName": "IconsStar",
+    "iconSize": ["16", "20", "24", "28"],
+    "iconType": ["solid", "solid", "solid", "solid"],
+    "subFolder": "icons-star",
+    "fragment": "color-icons",
+    "id": "32:6",
+    "svgName": [
+      "16-x-16-solid",
+      "20-x-20-solid",
+      "24-x-24-solid",
+      "28-x-28-solid"
+    ]
+  }
+}
