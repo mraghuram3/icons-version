@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none">
-  <path
-    stroke="var(--black,#000)"
-    stroke-width="1.25"
-    d="M.625.625h26.75v26.75H.625z"
-  />
-</svg>
